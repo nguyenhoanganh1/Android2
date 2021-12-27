@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_username">Tên đăng nhập</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="button_sign_in">Đăng nhập</string>
+    <string name="button_sign_up">Đăng ký</string>
+    <string name="button_send">Gửi</string>
+    <string name="text_forgot_password">Quyên mật khẩu?</string>
+    <string name="text_signin_message">Xin chào, vui long đăng nhập tài khoản của bạn</string>
+    <string name="text_signin_social_media">Hoặc đăng nhập</string>
+    <string name="text_signup_social_media">Hoặc đăng ký</string>
+    <string name="text_signin_signup">Chưa có tài khoản? <b>Đăng ký</b></string>
+    <string name="text_signup_terms">By signing up, you agree to our <b>terms and conditions</b></string>
+    <string name="text_signup_message">Hello, let\'s set up your account</string>
+
+    <string name="text_forgot_password_title">Quyên mật khẩu?</string>
+    <string name="text_forgot_password_message">Chúng tôi sẽ gửi bạn link để reset mật khẩu</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="hint_confirm_password">Xác nhận mật khẩu</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
