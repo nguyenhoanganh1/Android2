@@ -30,6 +30,7 @@ public class ShoppingCartController {
 		Map<String, Object> map = new HashMap<String, Object>();
 		map.put("count", cart.getCount());
 		map.put("amount", cart.getAmount());
+		map.put("cart", cart.getItems());
 		return map;
 	}
 	
